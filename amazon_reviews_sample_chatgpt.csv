@@ -1,0 +1,11 @@
+review_id,reviewer_id,rating,review_title,review_text,verified_purchase,helpful_votes,review_date
+1,U001,5,Excellent moisturizer,This cream made my skin soft and smooth. I have used it for three weeks and love the results.,True,12,2026-01-05
+2,U002,1,Terrible,This product caused irritation and made my skin very dry. Waste of money.,True,20,2026-01-06
+3,U003,5,Great,Terrible product and waste of money. I regret buying it.,False,0,2026-01-07
+4,U004,1,Amazing,Amazing product. I absolutely love it and will buy it again.,True,3,2026-01-08
+5,U005,5,Buy now,Amazing product!!! Buy now!!!,False,0,2026-01-09
+6,U006,5,Excellent book,This book was very interesting and well written.,False,0,2026-01-10
+7,U007,2,Late,The delivery was two weeks late and the package arrived damaged.,True,4,2026-01-11
+8,U008,5,Good product,Good product,True,1,2026-01-12
+9,U009,4,Soft skin,The texture is nice and it leaves my skin soft. Good value.,True,8,2026-01-13
+10,U010,1,Broken bottle,The bottle was leaking when it arrived. The product itself may be fine.,True,6,2026-01-14
